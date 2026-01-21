@@ -1,2 +1,2 @@
 # chat-release 
-[Download](https://google.com)
+[Download](https://github.com/nikitashreyder/chat-release/releases/tag/latest)
