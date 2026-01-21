@@ -1,2 +1,2 @@
 # chat-release 
-[Visit Google](https://google.com)
+[Download](https://google.com)
